@@ -12,3 +12,10 @@ window.onload = setTimeout(function(){
   }
 }, 10000);
 
+
+function butpsy() {
+  document.getElementById("psy").style.backgroundColor = "magenta";
+ 
+	
+
+}
